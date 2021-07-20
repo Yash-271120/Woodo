@@ -1,5 +1,5 @@
 # Woodo
-_A functional e-commerce web app_**
+_A functional e-commerce web app_
 
 ![Web app](https://i.ibb.co/JCMbqFV/oie-mw8-Mx-NZnx-VBE.png)
 
